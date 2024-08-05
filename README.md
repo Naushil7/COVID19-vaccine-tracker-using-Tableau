@@ -9,12 +9,12 @@ World Map: Shows the number of people vaccinated per hundred across different co
 Logarithmic Trend Line: Represents the correlation between GDP and vaccination rates.
 
 ## Filters
--- The dashboard includes slicers to refine the data:
+- The dashboard includes slicers to refine the data:
 
-  -- Start Date
-  -- End Date
-  -- Continent
-  -- Country
+  - Start Date
+  - End Date
+  - Continent
+  - Country
 
 ## Screenshots
 Title to Stacked Bar Chart
