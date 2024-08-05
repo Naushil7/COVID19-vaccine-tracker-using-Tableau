@@ -17,12 +17,15 @@ Logarithmic Trend Line: Represents the correlation between GDP and vaccination r
   - Country
 
 ## Screenshots
-Title to Stacked Bar Chart
+- Slicer and Distribution between Fully and Partially Vaccinated
+  ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+  
+- World Map
+  ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 
-World Map
-
-Logarithmic Trend Line
-
+- Logarithmic Trend Line
+  ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+  
 ## Usage
 Select Date Range: Use the start and end date slicers to choose the time period for the data.
 Choose Continent and Country: Use the continent and country slicers to focus on specific regions.
