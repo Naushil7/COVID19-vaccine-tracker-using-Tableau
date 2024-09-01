@@ -2,6 +2,8 @@
 ## Overview
 This project is an interactive dashboard created using Tableau to track COVID-19 vaccination progress worldwide. The dashboard provides insights into the share of the population vaccinated, both fully and partially, and offers various visualizations to understand the vaccination trends and their correlation with GDP.
 
+Link to Tableau Public Dashboard: https://public.tableau.com/views/Project1_17226554543400/Dashboard1
+
 ## Features
 - Vaccination Coverage: Displays the share of the population vaccinated against COVID-19, categorized as fully, partially, or not vaccinated.
 - Stacked Bar Chart: Location-wise visualization of the population fully and partially vaccinated.
